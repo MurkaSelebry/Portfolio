@@ -12,5 +12,5 @@ This is my portfolio guide. If u want to chat with me about my projects, Welcome
 # C++
 | Project Name | Description | 
 |---|---|
-|  [Shell Sort](https://github.com/MurkaSelebry/Shell-sort) | Some algorithm example
+|  [Shell Sort](https://github.com/MurkaSelebry/ShellSort) | Some algorithm example
 
