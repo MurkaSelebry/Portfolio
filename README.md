@@ -1,9 +1,10 @@
+
 # Portfolio Guide
 
 Wassup👋
+So this portfolio is not ready, couz i colllecting my project but u can look and give feedback about execution of portfolio.
 
 This is my portfolio guide. If u want to chat with me about my projects, Welcome [Telegram](https://t.me/selebry)!
-
 
 # C#
 | Project Name | Description | 
